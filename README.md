@@ -2,7 +2,6 @@
 
 
 🌱 I am Javier, a Software Development student, with student experience in both Front-End and Back-End development and in programming languages ​​such as JS, Java, CSS, C++, Python, HTML, among others. I am very self-taught, always interested in discovering more about the world of programming and technology.
-<img align="right" alt="Coding" width="300" src="https://pixabay.com/es/gifs/code-programming-computer-science-6618/">
 <!--
 **NJaDiaz/NJaDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
