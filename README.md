@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <a href="https://instagram.com/njavi.diaz"><img alt="Static Badge" src="https://img.shields.io/badge/%40njavi.diaz-%23FF0000?logo=Instagram&logoColor=white&labelColor=%23ff0000"></a>
 <a href="https://twitter.com/njavidiaz"><img alt="Static Badge" src="https://img.shields.io/badge/%40njavidiaz-%23004369?logo=twitter&logoColor=white&labelColor=%23004369"></a>
-<a href="www.linkedin.com/in/njavier-diaz"><img alt="Static Badge" src="https://img.shields.io/badge/Nestor%20Javier%20Diaz-%23004369?logo=linkedin&logoColor=white&labelColor=%23004369"></a>
+<a href="https://linkedin.com/in/njavier-diaz"><img alt="Static Badge" src="https://img.shields.io/badge/Nestor%20Javier%20Diaz-%23004369?logo=linkedin&logoColor=white&labelColor=%23004369"></a>
 
