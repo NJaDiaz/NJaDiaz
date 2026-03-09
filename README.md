@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Diaz</h1>
-<h3 align="center">Software Development Student | Full Stack Enthusiast</h3>
+<h3 align="center">Software Development Student | Web Developer | Full Stack Enthusiast</h3>
 
 ---
 
